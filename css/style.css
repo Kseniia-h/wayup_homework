@@ -1,0 +1,48 @@
+body {
+    color: black;
+    font-size: 16px;
+}
+
+p, input, button,form, span, a, ul, li {
+    box-sizing: border-box;
+}
+.image {
+    width: 150px;
+}
+.head_title {
+    color: red;
+}
+.paragraph_1 {
+    background-color: blue;
+    color: #fff;
+    width: 100px;
+    margin-bottom: 100px; 
+}
+.text {
+    color: red;
+}
+
+.title_1 {
+    background: green;
+    color: #fff;
+    padding: 5px;
+}
+.title_2 {
+    background-color: green;
+    color: white;
+    padding: 40px;
+}
+.paragraph_2 {
+    padding-left: 120px;
+}
+.list {
+    margin: 25px 0;
+}
+.list li{
+   border: 1px solid rgb(0, 0, 0);
+   font-size: 24px;
+}
+.link:hover {
+    font-size: 20px;
+}
+
